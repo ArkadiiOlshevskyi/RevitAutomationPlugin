@@ -11,7 +11,7 @@ Autodesk Revit is a Building Information Modeling (BIM) software widely used by 
 This is part of system,  utilizes Python for interacting with the Revit API (C#), supported by IronPython, enabling Revit automation with Python scripts. Revit's transactional database requires all model-altering actions to be conducted within a single transaction, making the main script essential for handling the entire automation process.
 
 ## How This Plugin Works
-![Revit Automation Plugin Overview](\HowItWorks_0.jpg)
+![Revit Automation Plugin Overview](HowItWorks_0.jpg)
 
 The plugin processes IFC (Industry Foundation Classes) and JSON model data, launching Revit and automating various operations, such as:
 
@@ -22,7 +22,7 @@ The plugin processes IFC (Industry Foundation Classes) and JSON model data, laun
 
 The plugin follows an object-oriented structure, with modules handling different tasks and a main execution script (`ifc_fml_to_dwg_rvt_ifc.py`) managing the transaction within Revit. All actions that modify the Revit project must be encapsulated within a single transaction due to Revit's database constraints.
 You can check the input and output folders for examples
-![Revit Automation Plugin Overview](\HowItWorks_1.jpg)
+![Revit Automation Plugin Overview](HowItWorks_1.jpg)
 
 
 ## Installation
