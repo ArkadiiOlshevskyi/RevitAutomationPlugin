@@ -1,0 +1,16 @@
+{
+  "file_info":{
+     "client":"default",
+     "input_fml":"~\\project_name.json",
+     "input_rvt":"~\\project_name.rvt",
+     "output":"~\\output"
+  },
+  "printing_settings":{
+     "paper_size":"A3",
+     "paper_orientation":"Albumn",
+     "scale":"auto"
+  },
+  "else":{
+     "none":"none"
+  }
+}

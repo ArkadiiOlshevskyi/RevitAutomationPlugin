@@ -1,0 +1,6 @@
+{
+    "settled_in_revit_ui": "~\\ifc_template.rte",
+    "default_client_mm": "~\\revit_database\\client_templates\\default_mm\\ifc_template.rte",
+    "default_client_inch": "~\\revit_database\\client_templates\\default_inch\\ifc_template.rte",
+    "new_test_client": "~\\revit_database\\client_templates\\test_client\\ifc_template.rte"
+}
