@@ -2,7 +2,7 @@
 
 A powerful automation plugin for Autodesk Revit that facilitates the automated creation and customization of 3D and 2D models within the Revit environment. This plugin leverages Python, the Revit API, and C# backend functionality to automate operations, including creating and modifying Revit families based on IFC and JSON model data.
 
-![Revit Automation Plugin Overview](\cover_image.jpg)
+![Revit Automation Plugin Overview](RevitAutomationPlugin/cover_image.jpg)
 
 ## About Revit and the Revit API
 
